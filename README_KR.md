@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-## 🛰 사용 데이터
+## 🧩 사용 데이터
 
 ### 1️⃣ 위성 해수면 수온 (SST)
 - 데이터명 : OISST (Optimum Interpolation Sea Surface Temperature)
