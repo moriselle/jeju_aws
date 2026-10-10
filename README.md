@@ -11,7 +11,7 @@ This pipeline quantifies heat risk in the coastal waters of Jeju using satellite
 <br/>
 <br/>
 
-## 🛰 Data Used
+## 🧩 Data Used
 
 ### 1️⃣ Satellite Sea Surface Temperature (SST)
 - Dataset : OISST (Optimum Interpolation Sea Surface Temperature)
